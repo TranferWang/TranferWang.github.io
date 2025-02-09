@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Jianhui Wang, currently pursuing a Ph.D. degree with the College of Information Science and Technology, [Jinan University](https://english.jnu.edu.cn/), China (starting in September 2023). My research interests include the Internet of Things, D2D communications, and mobile edge computing Under the supervision of Professor [Zhetao Li](https://faculty.jnu.edu.cn/xxkxjsxy/lzt3/list.htm)
+I am Jianhui Wang, currently pursuing a Ph.D. degree with the College of Information Science and Technology, [Jinan University](https://english.jnu.edu.cn/), China (***starting in September 2023***). My research interests include the Internet of Things, D2D communications, and mobile edge computing Under the supervision of Professor [Zhetao Li](https://faculty.jnu.edu.cn/xxkxjsxy/lzt3/list.htm)
 
 Main research work
 ------
