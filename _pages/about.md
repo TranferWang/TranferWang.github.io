@@ -6,21 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 Main research work
 ------
 [1] Li Z, Wang J, Long S, et al. A Trust Evaluation Joint Active Detection Method in Video Sharing D2D Networks[J]. IEEE Transactions on Mobile Computing, 2023. **[CCF A, IF:7.9, Accepted]**
 
-自动检测
-
-中文
-“Review”主要有以下词性和含义：
 [2] Wang J, Li Z, et al. A Trust-Based Computation Offloading Framework in Mobile Cloud-Edge Computing Networks[J]. IEEE Transactions on Mobile Computing, 2025. **[CCF A, IF:7.9, Accepted]**
 
 [3] Wang J, Li Z, et al. R-TOS: A Reliable Task Offloading Scheme for Relay-Aided Edge Computing Networks. IEEE/ACM Transactions on Networking, [**CCF A, Under Review**]
