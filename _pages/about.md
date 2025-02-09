@@ -1,4 +1,4 @@
-Getting started
+About Me
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -7,6 +7,8 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+Main research work
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+[1] Li Z, Wang J, Long S, et al. A Trust Evaluation Joint Active Detection Method in Video Sharing D2D Networks[J]. IEEE Transactions on Mobile Computing, 2023. [已录用，CCF A 类期刊，Top期刊，IF:7.9]
+[2] Wang J, Li Z, et al. A Trust-Based Computation Offloading Framework in Mobile Cloud-Edge Computing Networks[J]. IEEE Transactions on Mobile Computing, 2025. [已录用，CCF A 类期刊，Top期刊，IF:7.9]
+[3] Wang J, Li Z, et al. R-TOS: A Reliable Task Offloading Scheme for Relay-Aided Edge Computing Networks. [ IEEE/ACM Transactions on Networking 在投 ]
