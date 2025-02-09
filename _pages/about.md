@@ -9,8 +9,12 @@ About Me
 
 Main research work
 ------
-[1] Li Z, Wang J, Long S, et al. A Trust Evaluation Joint Active Detection Method in Video Sharing D2D Networks[J]. IEEE Transactions on Mobile Computing, 2023. **[CCF A, IF:7.9, Acceptd]**
+[1] Li Z, Wang J, Long S, et al. A Trust Evaluation Joint Active Detection Method in Video Sharing D2D Networks[J]. IEEE Transactions on Mobile Computing, 2023. **[CCF A, IF:7.9, Accepted]**
 
-[2] Wang J, Li Z, et al. A Trust-Based Computation Offloading Framework in Mobile Cloud-Edge Computing Networks[J]. IEEE Transactions on Mobile Computing, 2025. **[CCF A, IF:7.9, Acceptd]**
+自动检测
+
+中文
+“Review”主要有以下词性和含义：
+[2] Wang J, Li Z, et al. A Trust-Based Computation Offloading Framework in Mobile Cloud-Edge Computing Networks[J]. IEEE Transactions on Mobile Computing, 2025. **[CCF A, IF:7.9, Accepted]**
 
 [3] Wang J, Li Z, et al. R-TOS: A Reliable Task Offloading Scheme for Relay-Aided Edge Computing Networks. IEEE/ACM Transactions on Networking, [**CCF A, Under Review**]
